@@ -52,6 +52,7 @@ Wireframe 線框圖
 Mockup 視覺槁
 
 Prototype 原型
+
 </details>
 
 # 電子商務網站工程師
@@ -64,13 +65,13 @@ Prototype 原型
 > **工程師團隊工作橫以品牌切割從前端、後端至資料庫與架站、排程。** </br>
 > **縱為各品牌之間維護需求或功能新增相互支援。** </br>
 
-### 負責開發維護
+### 工作技能
 
 > **主 C# / VB / MPA / SSR / ASP.NET 4.7 / MVC 5 / WebForm / WebAPI / Winform ...**
 >
 > **次 .NET Core 2.1 / Razor / SPA / CSR / HTML5 / Vue.js ...**
 
-**註 :** .Net Core 架構，因從 ASP.NET MVC 轉上去的，所以沒有使用到 DI Container 撰寫 Service、Component，使用公司自製的Module類別核心，使用少量的 ADO.NET Entity Framework ， 大部分使用 Dapper ORM 套件，操作 Transact-SQL 查詢語言。
+**註 :** .Net Core 架構，因從 ASP.NET MVC 轉上去的，所以沒有使用到 DI Container 撰寫 Service 、 Component ，使用公司自製的 Module 類別核心，使用少量的 ADO.NET Entity Framework ， 大部分使用 Dapper ORM 套件，操作 Transact-SQL 查詢語言。
 
 ### 達成目標
 
@@ -88,9 +89,11 @@ Prototype 原型
 >
 > * **期間**
 >
->   **持續處理公司其他單位需求單日常開發與維護如下列。**
+>   **持續處理公司其他單位需求單日常開發與維護如下列...**
 
-### 專案開發
+### 工作項目
+
+#### 專案開發
 
 <details>
 <summary>MPA SSR CRM 平台 部分專案</summary>
@@ -145,7 +148,7 @@ Prototype 原型
 
 </details>
 
-### 需求單開發與維護
+#### 需求單開發與維護
 
 * MPA SSR 前台 需求單
   <details><summary>動態 Menu 首頁</summary>
