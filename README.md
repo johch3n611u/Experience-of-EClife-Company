@@ -1,5 +1,6 @@
 <details>
 <summary>縮寫全名</summary>
+
 MPA : Multi Page Application
 
 SPA : Single Page Application
